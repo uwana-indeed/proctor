@@ -1,5 +1,5 @@
 # baseurl: "https://indeedeng.github.io/proctor"
-baseurl: "https://tate-indeed.github.io/proctor-uwana-fork/"
+baseurl: "https://uwana-indeed.github.io/proctor-uwana-fork/"
 name: Proctor - A/B Testing Framework by Indeed
 # https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 highlighter: rouge
